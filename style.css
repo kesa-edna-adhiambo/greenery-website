@@ -1,0 +1,279 @@
+#navbar{
+    display: flex;
+
+}
+
+#nav2{
+    display: flex;
+    gap: 30px;
+    margin-left: 400px;
+    margin-top: 20px;
+
+}
+
+#nav3{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+#cont1{
+    margin-left: 300px;
+}
+
+#contA{
+    margin-left: 55px;
+}
+
+#cont1{
+    margin-left: 400px;
+}
+
+#container{
+    display: flex;
+}
+
+#container1{
+    
+    position: relative;
+    margin-left: 100px;
+    background-image: url(images/flowers.webp);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 900px;
+    padding-top: 50px;
+
+}
+
+#span{
+    color: green;
+}
+
+#container2{
+    margin-left: 200px;
+   
+}
+
+#contC{
+    display: flex;
+    gap: 40px;
+    background-color:gainsboro;
+}
+
+.img2{
+    height: 250px;
+    width: 200px;
+}
+
+#C1{
+    margin-left: 50px;
+}
+
+.img3{
+    height: 250px;
+    width: 200px;
+}
+
+#contD{
+     display: flex;
+     gap: 40px;
+     background-color: gainsboro;
+}
+
+#content1{
+    display: flex;
+    gap: 50px;
+    background-color: cornsilk;
+}
+
+.img4{
+    height: 150px;
+    width: 90px;
+}
+
+#content{
+    display: flex;
+    gap: 300px;
+}
+
+#content2{
+    display: flex;
+    gap: 50px;
+    background-color: cornsilk;
+}
+
+.img5{
+    height: 150px;
+    width: 90px;
+}
+
+#content3{
+    display: flex;
+    gap: 50px;
+    background-color: cornsilk;
+
+}
+
+.img6{
+    height: 150px;
+    width: 90px;
+
+}
+
+#cont1A{
+    margin-left: 50px;
+}
+
+#cont2A{
+    margin-left: 50px;
+}
+
+#cont3A{
+    margin-left: 50px;
+}
+
+#nav-bar{
+    display: flex;
+    gap: 300px;
+    margin-left: 500px;
+}
+
+.imgg{
+    height: 300px;
+}
+
+#buck{
+    display: flex;
+    gap: 20px;
+}
+
+#BUCK{
+    display: flex;
+    gap: 20;
+}
+
+#BUCKETS{
+    display: flex;
+}
+
+.imagee{
+    height: 800px;
+}
+
+#b{
+    margin-left: 400px;
+}
+
+button{
+    background-color: green;
+    width: 200px;
+   
+}
+
+#UP{
+    margin-left: 700px;
+
+}
+
+#ALL{
+    display: flex;
+    gap: 150px;
+    margin-left: 250px;
+}
+
+#butt{
+    display: flex;
+    gap: 100px;
+}
+
+#CONTENT{
+    background-color: gainsboro;
+}
+
+#CON{
+    margin-left: 650px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.google1{
+    height: 200px;
+    width: 150px;
+
+}
+
+#CONTENT3{
+    display:flex;
+    gap: 400px;
+   
+}
+
+#CONTENT4{
+    display:flex;
+    gap: 400px;
+}
+
+#CONTENT5{
+    display:flex;
+    gap: 400px;
+}
+
+#CONT{
+    display: flex;
+    gap: 300px;
+}
+
+.google2{
+    width: 450px;
+
+}
+
+.GOOGLE{
+    width: 400px;
+    height: 350px;
+}
+
+#CONT-B{
+    display: flex;
+    gap: 300px;
+}
+
+#FINAL1{
+    margin-left: 800px;
+}
+
+#FINAL2{
+    display: flex;
+    gap: 150px;
+}
+
+.lady{
+    height: 200px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#FINAL3{
+    margin-left: 600px;
+}
+
+#FINAL4{
+    margin-left: 780px;
+}
+
+#FINAL5{
+    margin-left: 800px;
+}
+
+#footer{
+    display: flex;
+    gap: 550px;
+}
+
+.icon{
+    width: 25px;
+    height: 50px;
+}
+
+#source{
+    margin-left: 750px;
+}
