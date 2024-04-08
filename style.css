@@ -277,3 +277,170 @@ button{
 #source{
     margin-left: 750px;
 }
+
+
+@media screen and (min-width:280px) and (max-width: 460px){
+    #navbar{
+        display: grid;
+        font-size: small;
+
+    }
+    #nav2{
+        display: grid;
+        gap: 1px;
+        margin-left: 0px;
+        margin-top: 10px;
+    
+    }
+    #nav3{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    #footer{
+        display: grid;
+        gap: 0px;
+    }
+    #source{
+        margin-left: 0px;
+    }
+
+#FINAL3{
+    margin-left: 0px;
+}
+
+#FINAL4{
+    margin-left: 0px;
+}
+
+#FINAL5{
+    margin-left: 0px;
+}
+#FINAL1{
+    margin-left: 0px;
+}
+
+#FINAL2{
+    display: grid;
+    gap: 10px;
+}
+
+#CONT-B{
+    display: grid;
+    gap: 30px;
+}
+#CONT{
+    display: grid;
+    gap: 0px;
+}
+.google2{
+    width: 150px;
+}
+.GOOGLE{
+    width: 200px;
+    height: 150px;
+}
+
+#CONTENT3{
+    display:grid;
+    gap: 0px;
+   
+}
+
+#CONTENT4{
+    display:grid;
+    gap: 0px;
+}
+
+#CONTENT5{
+    display:grid;
+    gap: 0px;
+}
+#CONTENT{
+    background-color: gainsboro;
+}
+#CON{
+    margin-left: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#ALL{
+    display: grid;
+    gap: 0px;
+    margin-left: 0px;
+}
+.imaage{
+width: 200px;
+height: 230px;
+}
+
+#BUCKETS{
+    display: grid;
+}
+
+#nav-bar{
+    display: grid;
+    gap: 0px;
+    margin-left: 0px;
+}
+
+#buck{
+    display: grid;
+    gap: 0px;
+}
+#BUCK{
+    display: grid;
+    gap: 0px;
+}
+.imagee{
+    height: 200px;
+}
+.imgg{
+    height: 150px;
+}
+
+#content{
+    display: grid;
+    gap: 0px;
+    font-size: smaller;
+}
+#container2{
+    margin-left: 0px;
+   
+}
+#container{
+    display: grid;
+}
+
+#container1{
+    
+    margin-left: 0px;
+    background-image: url(images/flowers.webp);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 365px;
+    margin-bottom: 70px;
+
+}
+#cont1{
+    margin-left: 0px;
+    font-size: smaller;
+}
+#b{
+    margin-left: 0px;
+}
+#UP{
+    margin-left: 0px;
+
+}
+#contC{
+    display: grid;
+    gap: 20px;
+    background-color:gainsboro;
+}
+#contD{
+    display: grid;
+    gap: 20px;
+    background-color: gainsboro;
+}
+
+}
